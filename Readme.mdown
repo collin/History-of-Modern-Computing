@@ -1,0 +1,5 @@
+# Software Archaeology (a History)
+
+A collaborative course on: How we got here. Where here is. Why the path was important.
+
+[Get thee to the wiki!](https://github.com/collin/History-of-Modern-Computing/wiki)
